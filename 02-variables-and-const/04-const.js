@@ -5,3 +5,6 @@ let resultadoTriplicado = resultado * 3;
 console.log(resultadoTriplicado);
 console.log(typeof (primeiroNumero + segundoNumero));
 
+
+
+console.log('Hello World!');
