@@ -18,4 +18,6 @@ javascript-fundamentals/
 ├── 03-data-types/            # Primitives, dynamic typing, and type coercion prevention
 ├── 04-operators/             # Arithmetic, accumulators, increments, and Number() casting
 ├── 05-arrays/                # Collection manipulation, reference mutation, and core methods
-└── 06-functions/            # Function declarations, expressions, Arrow Functions, and returns
+├── 06-objects/               # Key-value pairs, Property Shorthand, and destructuring
+├── 07-functions/             # Arrow Functions, implicit returns, and ({ ... }) syntax
+└── 08-immutability/          # Spread Operator (...) for immutable state updates
