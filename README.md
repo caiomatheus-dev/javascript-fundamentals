@@ -20,4 +20,7 @@ javascript-fundamentals/
 ├── 05-arrays/                # Collection manipulation, reference mutation, and core methods
 ├── 06-objects/               # Key-value pairs, Property Shorthand, and destructuring
 ├── 07-functions/             # Arrow Functions, implicit returns, and ({ ... }) syntax
-└── 08-immutability/          # Spread Operator (...) for immutable state updates
+├── 08-immutability/          # Spread Operator (...) for immutable state updates
+├── 09-functions/             # Practical function exercises and data manipulation
+└── 10-programming-logic/     # Strict comparison (===), logical operators, short-circuiting, and conditionals
+
